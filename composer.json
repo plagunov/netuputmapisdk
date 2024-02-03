@@ -1,0 +1,15 @@
+{
+    "name": "plagunov/netuputmapisdk",
+    "description": "The Netup api SDK APIs to manage accounts, service links, etc.",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Plagunov\\Netuputmapisdk\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=7.1.0"
+    }
+}
